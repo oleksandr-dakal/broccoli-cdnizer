@@ -1,4 +1,4 @@
-# broccoli-cdnizer
+# broccoli-cdnizer [![Build Status](https://travis-ci.org/dakal-oleksandr/broccoli-cdnizer.svg)](https://travis-ci.org/dakal-oleksandr/broccoli-cdnizer)
 
 > Broccoli plugin for replacing local links with CDN links, includes fallbacks and customization.
 
@@ -29,4 +29,4 @@ See the cdnizer [options](https://github.com/OverZealous/cdnizer#api).
 
 ## License
 
-MIT © [Dakal Oleksandr]
+MIT © Dakal Oleksandr
